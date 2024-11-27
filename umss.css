@@ -1,0 +1,21 @@
+.gallery {
+    text-align:center;
+    max-width: 80%;
+    margin: 1em auto;
+}
+     
+.gallery a {
+    text-decoration: none;
+}
+     
+.gallery img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin: 0 0 0.2em 0;
+}
+
+.btn-group {
+    margin-bottom: 0.2em;
+}

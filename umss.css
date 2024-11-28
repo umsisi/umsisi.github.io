@@ -1,25 +1,27 @@
-.gallery {
-    text-align:center;
-    max-width: 80%;
-    margin: 1em auto;
-}
-     
-.gallery a {
-    text-decoration: none;
-}
-     
-.gallery img {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 50px;
-    margin: 0 0 0.2em 0;
-}
-
 .btn-social {
     margin-bottom: 0.2em;
 }
 
 .container h3, h4 {
     margin:0.4em 0;
+}
+
+.gallery a {
+    text-decoration: none;
+}
+
+.gallery .imagebox {
+    
+}
+
+.gallery .imagebox img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;  
+    border-radius: 50px;
+}
+
+.gallery .imagebox img:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
 }

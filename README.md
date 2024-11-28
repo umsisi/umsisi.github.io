@@ -1,10 +1,8 @@
 # umsisi.github.io
 
-<div style="text-align: center;">
-<img src="./img/umss20241128035025.png" width="40%" alt="screenshot"><br />
-URL: <a href="https://umsisi.github.io/">https://umsisi.github.io/</a>
-</div>
-  
+<div style="text-align: center;"><img src="./img/umss20241128035025.png" width="40%" alt="screenshot"><br />
+URL: <a href="https://umsisi.github.io/">https://umsisi.github.io/</a></div>
+<br />
 イラストレーターの umsisi/うむしし と申します。  
 Github PagesでLink in Bio的な役割を兼ねたPORTFOLIOページを作ってみたので備忘録を兼ねたREADMEをこちらに記しておきたいと思います。
 

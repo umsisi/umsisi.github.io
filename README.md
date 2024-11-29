@@ -1,9 +1,15 @@
 # umsisi.github.io
 
-<div style="align: center;"><img src="./img/umss20241128035025.png" width="40%" alt="screenshot"><br />
-URL: <a href="https://umsisi.github.io/">https://umsisi.github.io/</a></div>
-<img src="https://img.shields.io/badge/umsisi-%5E--%5E-brightgreen" />
-<br /><br />
+<div style="text-align: center;"><img src="./img/umss20241128035025.png" width="40%" alt="screenshot" /><br />
+URL: <a href="https://umsisi.github.io/">https://umsisi.github.io/</a><br />
+<img src="https://img.shields.io/badge/DeviantArt-gray?logo=deviantart" />
+<img src="https://img.shields.io/badge/tumblr-blue?logo=tumblr" />
+<img src="https://img.shields.io/badge/Ko--fi-white?logo=kofi" />
+<img src="https://img.shields.io/badge/X(Twitter)-gray?logo=x" />
+<img src="https://img.shields.io/badge/Bluesky-white?logo=bluesky" />
+<img src="https://img.shields.io/badge/Instagram-white?logo=instagram" />
+<img src="https://img.shields.io/badge/Misskey.io-white?logo=misskey" /></div>
+<br />
 イラストレーターの umsisi/うむしし と申します。  
 Github PagesでLink in Bio的な役割を兼ねたPORTFOLIOページを作ってみたので備忘録を兼ねたREADMEをこちらに記しておきたいと思います。
 

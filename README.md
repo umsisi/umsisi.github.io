@@ -21,17 +21,19 @@ Github PagesでLink in Bio的な役割を兼ねたPORTFOLIOページを作って
 HTML作成にあたりCSSフレームワークとして **[Bootstrap](https://getbootstrap.jp/)** を  
 BootstrapのTemplateとして **[startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer)** を  
 画像のポップアップ拡大表示には **[baguetteBox.js](https://github.com/feimosi/baguetteBox.jsr)** を  
-上部のバッジ作成には **[Shields.io](https://shields.io/)** を
+上部のバッジ作成には **[Shields.io](https://shields.io/)** を  
 それぞれ使用させていただきました。大変ありがとうございます。
 
 このPORTFOLIOの作成顛末などはそのうちブログかQiitaにまとめたいです。
 
 ### || Shields.ioバッジ
-このREADME.mdの上の方にも並べてある [Shields.io](https://shields.io/) のバッジですが、  
+README.mdの上の方にも並べてある [Shields.io](https://shields.io/) のバッジですが、  
 (文系脳にとっては)どこを見ても記述の仕方が最高に説明不足なので軽く書いておきます。
 
+<img src="https://img.shields.io/badge/baguettebox-js-yellow?logo=javascript" />
+
 ```<img src="https://img.shields.io/badge/baguettebox-js-yellow?logo=javascript" />```  
-このREADMEの上に貼ってあるbaguettebox.jsのバッジの書式が上のようになってます。
+このページに貼ってある baguettebox.js のバッジの書式が上のようになってます。
 
 ```baguettebox-js-yellow```  
 の部分が  
@@ -44,11 +46,11 @@ BootstrapのTemplateとして **[startbootstrap-freelancer](https://github.com/S
 
 ちなみにlabelColorとlogoを両方使いたい場合は  
 ```?labelColor=white&logo=javascript```  
-という具合に「&」で繋いでいきます。書き方がわかると楽しくなってきます。
+という具合に「&」で繋いでいきます。  
+書き方がわかると楽しくなってきました。バッジだらけにしましょう！
 
 ### || さいごに
-自他ともに認める理系音痴の文系イラスト系人間でもGithubでコミットしてリモートリポジトリにプッシュできる時代が来たことにむせび泣いております。世の「死ぬまでに一度は理系になりたかった人生だった系文系人間」の皆様にも是非Github PagesでPORTFOLIOとかを作ってほしいなと思う次第です。  
-「はじめに」と「さいごに」しかないシンプル構成になってしまいました！README.mdってナニ書けばいいんですか！！
+自他ともに認める理系音痴の文系イラスト系人間でもGithubでコミットしてリモートリポジトリにプッシュできる時代が来たことにむせび泣いております。世の「死ぬまでに一度は理系になりたかった人生だった系文系人間」の皆様にも是非Github PagesでPORTFOLIOとかを作ってほしいなと思う次第です。
 
 ### || おまけに
 Visual studio codeでのREADME.md編集には **Markdown Preview Enhanced** プラグインが最高にクールです。これさえあればMarkdownなにするものぞです。作者様に100万の感謝を。

@@ -22,7 +22,7 @@ BootstrapのTemplateとして **[startbootstrap-freelancer](https://github.com/S
 
 このPORTFOLIOの作成顛末などはそのうちブログかQiitaにまとめたいです。
 
-自他ともに認める理系音痴の文系イラスト系人間でもGithubでコミットしてリモートリポジトリにプッシュできる時代が来たことにむせび泣いております。世の「死ぬまでに一度は理系になりたかった人生だった系文系人間」の皆様にも是非Github PagesでPORTFOLIOとかを作ってほしいなと思う次第です。
+自他ともに認める理系音痴の文系イラスト系人間でもGithubでコミットしてリモートリポジトリにプッシュできる時代が来たことにむせび泣いております。世の「死ぬまでに一度は理系になりたかった人生だった系文系人間」の皆様にも是非Github PagesでPORTFOLIOとかを作ってほしいなと思う次第です。  
 README.mdってナニ書けばいいんですか…。
 
 最後にVisual studio codeでのREADME.md編集には **Markdown Preview Enhanced** プラグインが最高にクールです。これさえあればMarkdownなにするものぞです。作者様に100万の感謝を。

@@ -29,20 +29,20 @@ BootstrapのTemplateとして **[startbootstrap-freelancer](https://github.com/S
 このREADME.mdの上の方にも並べてある [Shields.io](https://shields.io/) のバッジですが、  
 (文系脳にとっては)どこを見ても記述の仕方が最高に説明不足なので軽く書いておきます。
 
-```<img src="https://img.shields.io/badge/baguettebox-js-yellow?logo=javascript" />```
+```<img src="https://img.shields.io/badge/baguettebox-js-yellow?logo=javascript" />```  
 このREADMEの上に貼ってあるbaguettebox.jsのバッジの書式が上のようになってます。
 
-```baguettebox-js-yellow```
+```baguettebox-js-yellow```  
 の部分が
-```バッジ左側の文字-右側の文字-右側の背景色```
-になります。じゃあ左側の背景色は？というとその後ろに
-```?labelColor=white```
-というふうに書くと反映されます。最後の
-```?logo=javascript```
+```バッジ左側の文字-右側の文字-右側の背景色```  
+になります。じゃあ左側の背景色は？というとその後ろに  
+```?labelColor=white```  
+というふうに書くと反映されます。最後の  
+```?logo=javascript```  
 の部分は先頭のロゴマークで [Simple Icons slugs](https://github.com/simple-icons/simple-icons/blob/master/slugs.md) にアイコン名の一覧があるので調べます。
 
-ちなみにlabelColorとlogoを両方使いたい場合は
-```?labelColor=white&logo=javascript```
+ちなみにlabelColorとlogoを両方使いたい場合は  
+```?labelColor=white&logo=javascript```  
 という具合に「&」で繋いでいきます。書き方がわかると楽しくなってきます。
 
 ### || さいごに

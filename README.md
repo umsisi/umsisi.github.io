@@ -21,6 +21,7 @@ Github PagesでLink in Bio的な役割を兼ねたPORTFOLIOページを作って
 HTML作成にあたりCSSフレームワークとして **[Bootstrap](https://getbootstrap.jp/)** を  
 BootstrapのTemplateとして **[startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer)** を  
 画像のポップアップ拡大表示には **[baguetteBox.js](https://github.com/feimosi/baguetteBox.jsr)** を  
+上部のバッジ作成には **[Shields.io](https://shields.io/)** を
 それぞれ使用させていただきました。大変ありがとうございます。
 
 このPORTFOLIOの作成顛末などはそのうちブログかQiitaにまとめたいです。
@@ -33,7 +34,7 @@ BootstrapのTemplateとして **[startbootstrap-freelancer](https://github.com/S
 このREADMEの上に貼ってあるbaguettebox.jsのバッジの書式が上のようになってます。
 
 ```baguettebox-js-yellow```  
-の部分が
+の部分が  
 ```バッジ左側の文字-右側の文字-右側の背景色```  
 になります。じゃあ左側の背景色は？というとその後ろに  
 ```?labelColor=white```  

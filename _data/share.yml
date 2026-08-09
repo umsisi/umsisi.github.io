@@ -40,6 +40,10 @@ platforms:
   - type: Bluesky
     icon: "fa-brands fa-bluesky"
     link: "https://bsky.app/intent/compose?text=TITLE%20URL"
+
+  - type: "hatena bookmark"
+    icon: "fa-regular fa-bookmark"
+    link: "https://b.hatena.ne.jp/entry/panel/?url=URL"
   #
   # - type: Reddit
   #   icon: "fa-brands fa-square-reddit"
@@ -48,7 +52,3 @@ platforms:
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
-
-  - type: "hatena bookmark"
-   icon: "fa-regular fa-bookmark"
-   Link: "https://b.hatena.ne.jp/entry/panel/?url=URL"

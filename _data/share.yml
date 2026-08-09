@@ -49,6 +49,6 @@ platforms:
   #   icon: "fa-brands fa-square-threads"
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
 
-  type: ”hatena bookmark”
-  icon: "fa-regular fa-bookmark"
-  Link: ”https://b.hatena.ne.jp/entry/panel/?url=URL”
+  - type: "hatena bookmark"
+   icon: "fa-regular fa-bookmark"
+   Link: "https://b.hatena.ne.jp/entry/panel/?url=URL"

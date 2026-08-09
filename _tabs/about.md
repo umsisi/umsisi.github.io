@@ -11,21 +11,24 @@ order: 4
 
 他に趣味でFreeBSDやDebianを使った各種サーバーの運用をしてた時期があり、2chのとあるスレッドのログ全文検索サイトを全文検索システムNamazuで構築した経験が何故かあります。自宅サーバーでの独自ドメインDNS管理経験もあり。
 
+現在、以下のサイトにてコミッションを受け付けています。
+
+- Ko-fi commission: [https://ko-fi.com/umsisi/commissions](https://ko-fi.com/umsisi/commissions)
+- Skeb: [https://skeb.jp/@umsisi](https://skeb.jp/@umsisi)
+
 #### || TOOLS 使用機材
 
 復帰前はPainterを使っていましたが、現在はCLIP PAINT STUDIO PROとペンタブレットを使ってフルデジタルでイラストを制作しています。 また、Asepriteを使ってドット絵の描き方も勉強中です。
 
-Before returning, I used Painter, but now I create illustrations entirely digitally using CLIP PAINT STUDIO PRO and a pen tablet. I'm also learning how to draw pixel art using Aseprite.
-
-**SOFTWARE**
+##### SOFTWARE
 
 - CLIP STUDIO PAINT PRO
 - Aseprite
 
-**HARDWARE**
+##### HARDWARE
 
-- One by Wacom medium (CTL-672/K0-C)  
-LG 27GL850-B / 24GN600-B
+- One by Wacom medium (CTL-672/K0-C)
+- LG 27GL850-B / 24GN600-B
 
 #### || ACTIVITY HISTORY 活動履歴
 

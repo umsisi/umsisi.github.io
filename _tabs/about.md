@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-緑髪の女の子とメロンパンが大好きな兼業イラストレーターです。大阪生まれ大阪育ちの建築デザイン学科卒。
+## about umsisi
+
+髪の女の子とメロンパンが大好きな兼業イラストレーターです。大阪生まれ大阪育ちの建築デザイン学科卒。
 
 同人ゲームの背景原画に誘われてこの世界に来ましたがすぐに女の子イラストに転向。運良く出版社の方に声をかけていただき、4コマ漫画雑誌での短期連載/4コマゲームアンソロジー/ゲーム設定原画集イラスト寄稿/児童書の挿絵/iOSアプリのキャラデザイン未遂などを経験。  
 諸般の事情で一時界隈から離れていましたが2023年頃から活動を再開しました。
@@ -20,15 +22,12 @@ order: 4
 
 復帰前はPainterを使っていましたが、現在はCLIP PAINT STUDIO PROとペンタブレットを使ってフルデジタルでイラストを制作しています。 また、Asepriteを使ってドット絵の描き方も勉強中です。
 
-##### SOFTWARE
-
-- CLIP STUDIO PAINT PRO
-- Aseprite
-
-##### HARDWARE
-
-- One by Wacom medium (CTL-672/K0-C)
-- LG 27GL850-B / 24GN600-B
+- **SOFTWARE**
+  - CLIP STUDIO PAINT PRO
+  - Aseprite
+- **HARDWARE**
+  - One by Wacom medium (CTL-672/K0-C)
+  - LG 27GL850-B / 24GN600-B
 
 #### || ACTIVITY HISTORY 活動履歴
 

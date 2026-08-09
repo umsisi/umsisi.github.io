@@ -15,7 +15,7 @@ order: 4
 
 現在、以下のサイトにてコミッションを受け付けています。
 
-- Ko-fi commission: [https://ko-fi.com/umsisi/commissions](https://ko-fi.com/umsisi/commissions)
+- VGen: [https://vgen.co/umsisi](https://vgen.co/umsisi)
 - Skeb: [https://skeb.jp/@umsisi](https://skeb.jp/@umsisi)
 
 #### || TOOLS 使用機材

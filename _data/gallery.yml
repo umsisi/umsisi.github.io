@@ -1,0 +1,27 @@
+- id: 001
+  title: "twitter kotei 1"
+  image: "/assets/img/gallery/twitter_kotei_1e.jpg"
+  width: 1920
+  height: 1080
+  description: "collage1"
+
+- id: 002
+  title: "twitter kotei 2"
+  image: "/assets/img/gallery/twitter_kotei_2c.jpg"
+  width: 1920
+  height: 1080
+  description: "collage2"
+
+- id: 003
+  title: "twitter kotei 3"
+  image: "/assets/img/gallery/twitter_kotei_3c.jpg"
+  width: 1920
+  height: 1080
+  description: "collage3"
+
+- id: 004
+  title: "twitter kotei 4"
+  image: "/assets/img/gallery/twitter_kotei_4.jpg"
+  width: 1920
+  height: 1080
+  description: "collage4"

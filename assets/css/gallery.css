@@ -15,6 +15,7 @@
   overflow: hidden;
   cursor: pointer;
   position: relative;
+  border-radius: 8px;
 }
 
 .gallery-item img {
@@ -33,9 +34,17 @@
 }
 
 .gallery-item:hover img {
-  transform: scale(1.03);
+  transform: scale(1.05);
 }
 
+/* Large screens */
+@media (min-width: 1400px) {
+  .gallery-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+/* Mobile */
 @media (max-width: 768px) {
   .gallery-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));

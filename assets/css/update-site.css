@@ -1,28 +1,14 @@
-﻿/* Manual site update link */
+﻿/* Manual site update */
 
-.update-site-wrapper {
-  width: 100%;
+.update-site-item {
   margin-top: 2.5rem;
 }
 
-.update-site-button {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  padding: 0.6rem 1rem;
-  color: var(--sidebar-text-color);
-  text-decoration: none;
+.update-site-item .nav-link {
+  cursor: pointer;
 }
 
-.update-site-button:hover {
-  color: var(--sidebar-active-color);
-}
-
-.update-site-button i {
-  margin-right: 0.75rem;
-}
-
-.update-site-button.is-updating i {
+.update-site-item .nav-link.is-updating i {
   animation: update-site-spin 0.8s linear infinite;
 }
 

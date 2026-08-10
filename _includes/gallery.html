@@ -1,17 +1,14 @@
-<div class="gallery-grid" id="gallery">
+<div class="gallery-grid">
   {% for item in site.data.gallery %}
-    <div
-      class="gallery-item"
-      data-pswp-width="{{ item.width }}"
-      data-pswp-height="{{ item.height }}"
-      data-pswp-src="{{ item.image | relative_url }}"
-      data-pswp-caption="{{ item.title | escape }}"
+    <a
+      href="{{ item.image | relative_url }}"
+      class="gallery-item popup img-link"
     >
       <img
         src="{{ item.image | relative_url }}"
         alt="{{ item.title | escape }}"
         loading="lazy"
       >
-    </div>
+    </a>
   {% endfor %}
 </div>

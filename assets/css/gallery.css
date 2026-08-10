@@ -1,21 +1,25 @@
 ﻿.gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
   margin: 1.5rem 0;
 }
 
 .gallery-item {
   display: block;
-  overflow: hidden;
+  width: 100%;
   aspect-ratio: 1 / 1;
+  overflow: hidden;
   cursor: pointer;
 }
 
 .gallery-item img {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   transition: transform 0.2s ease;
 }
@@ -26,7 +30,7 @@
 
 @media (max-width: 768px) {
   .gallery-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 8px;
   }
 }

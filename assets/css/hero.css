@@ -1,0 +1,14 @@
+﻿.site-hero {
+  width: 100%;
+  margin: 0 0 2rem;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.site-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 !important;
+  padding: 0 !important;
+}

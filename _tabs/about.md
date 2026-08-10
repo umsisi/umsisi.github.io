@@ -20,7 +20,7 @@ order: 2
 
 #### || TOOLS 使用機材
 
-復帰前はPainterを使っていましたが、現在はCLIP PAINT STUDIO PROとペンタブレットを使ってフルデジタルでイラストを制作しています。 また、Asepriteを使ってドット絵の描き方も勉強中です。
+復帰前はPainterを使っていましたが、現在はCLIP PAINT STUDIO PROとペンタブレットを使ってフルデジタルでイラストを制作しています。 また、Asepriteを使ってドット絵も勉強中です。
 
 - **SOFTWARE**
   - CLIP STUDIO PAINT PRO

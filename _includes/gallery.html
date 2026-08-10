@@ -1,14 +1,11 @@
 <div class="gallery-grid">
   {% for item in site.data.gallery %}
-    <a
-      href="{{ item.image | relative_url }}"
-      class="gallery-item popup img-link"
-    >
+    <div class="gallery-item">
       <img
         src="{{ item.image | relative_url }}"
         alt="{{ item.title | escape }}"
         loading="lazy"
       >
-    </a>
+    </div>
   {% endfor %}
 </div>

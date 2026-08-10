@@ -1,13 +1,16 @@
 ﻿.gallery-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
+  column-gap: 12px;
+  row-gap: 12px;
   margin: 1.5rem 0;
 }
 
 .gallery-item {
   display: block;
   width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
   overflow: hidden;
   cursor: pointer;
 }

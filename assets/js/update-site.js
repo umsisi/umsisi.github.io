@@ -11,30 +11,30 @@
   const label = button.querySelector('span');
   const originalLabel = label.textContent;
 
-  function setUpdating() {
-    button.disabled = true;
-    button.classList.add('is-updating');
+function setUpdating() {
+  button.classList.add('is-updating');
+  button.setAttribute('aria-disabled', 'true');
 
-    if (icon) {
-      icon.classList.add('fa-spin');
-    }
-
-    label.textContent = 'Checking...';
+  if (icon) {
+    icon.classList.add('fa-spin');
   }
 
-  function setReady() {
-    button.disabled = false;
-    button.classList.remove('is-updating');
+  label.textContent = 'Checking...';
+}
 
-    if (icon) {
-      icon.classList.remove('fa-spin');
-    }
+	function setReady() {
+	  button.classList.remove('is-updating');
+	  button.removeAttribute('aria-disabled');
 
-    label.textContent = originalLabel;
-  }
+	  if (icon) {
+	    icon.classList.remove('fa-spin');
+	  }
 
-  button.addEventListener('click', async function () {
-    setUpdating();
+	  label.textContent = originalLabel;
+	}
+
+	button.addEventListener('click', async function (event) {
+	  event.preventDefault();
 
     try {
       const registration = await navigator.serviceWorker.ready;

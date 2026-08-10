@@ -6,10 +6,12 @@
 }
 
 .gallery-item {
+  display: block;
   width: 100%;
   aspect-ratio: 1 / 1;
   overflow: hidden;
   cursor: pointer;
+  position: relative;
 }
 
 .gallery-item img {
@@ -17,8 +19,11 @@
   width: 100% !important;
   height: 100% !important;
   max-width: none !important;
+  max-height: none !important;
   margin: 0 !important;
-  object-fit: cover;
+  padding: 0 !important;
+  object-fit: cover !important;
+  object-position: center;
   transition: transform 0.2s ease;
 }
 

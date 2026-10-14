@@ -2,8 +2,8 @@
 .post article .preview-img {
   display: block;
   width: 100%;
-  max-width: auto;
-  height: 200px;
+  max-width: 200px;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
 }

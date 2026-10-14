@@ -1,5 +1,9 @@
-﻿/* 記事ヘッダー画像の縦幅を制限 */
-.post .preview-img {
-  height: 300px;
+﻿/* 記事ヘッダー画像の高さを制限 */
+.post .post-meta img.preview-img,
+.post img.preview-img,
+header .preview-img {
+  height: 300px !important;
+  max-height: 300px !important;
+  width: 100%;
   object-fit: cover;
 }

@@ -1,13 +1,5 @@
-﻿/* 記事ページ上部のヘッダー画像 */
-.post article .preview-img {
-  display: block;
-  width: 100%;
-  max-width: 800px;
-  height: 200px;
-  margin-left: auto;
-  margin-right: auto;
-}
-/* テスト：サイドバーの背景色 */
-#sidebar {
-  background-color: #f0f0f0;
+﻿/* 記事ヘッダー画像の縦幅を制限 */
+.post .preview-img {
+  height: 300px;
+  object-fit: cover;
 }
